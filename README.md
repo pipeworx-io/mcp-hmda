@@ -4,7 +4,7 @@ Every mortgage application US lenders were required to disclose under the Home
 Mortgage Disclosure Act, 2018–2025: who applied, what happened, for how much,
 by lender, county and census tract. Roughly 99 fields per record.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1573+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
 
 This is the dataset behind fair-lending analysis — it exists so that denial
 patterns across race, ethnicity, sex and geography are checkable rather than
@@ -106,7 +106,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1573+ data sources. The
+Both URLs reach the same gateway and the same 1576+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
