@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hmda",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HMDA — every US mortgage application at loan level (CFPB / FFIEC).",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-9c7c7719f5b8ad5d1d17d98915b00fa66fe8fc78fa01880c25f064c3063413a4",
+    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
   }
 }
