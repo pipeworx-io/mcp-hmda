@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/hmda",
   "title": "Hmda",
   "description": "HMDA — every US mortgage application at loan level (CFPB / FFIEC).",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/hmda",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-hmda",
